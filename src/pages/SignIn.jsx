@@ -1,4 +1,4 @@
-import { Box, Button, Container, Flex, Heading, HStack, IconButton, Image, Link, Text, VStack } from "@chakra-ui/react";
+import { Box, Button, Flex, Heading, HStack, Image, Link, Text, VStack } from "@chakra-ui/react";
 import { FaGoogle, FaGithub, FaArrowRight } from "react-icons/fa";
 
 const SignIn = () => {
